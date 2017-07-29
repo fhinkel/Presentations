@@ -1,4 +1,6 @@
 # JSEngines-HowDoTheyEven
+[Slides from JSChannel 2017](https://fhinkel.github.io/JSEngines-HowDoTheyEven/JSChannel).
+
 [Slides from DinosaurJS 2017](https://fhinkel.github.io/JSEngines-HowDoTheyEven/DinosaurJS2017/).
 
 [Slides from WebRebels 2017](https://fhinkel.github.io/JSEngines-HowDoTheyEven/WebRebels2017/). [Youtube](https://youtu.be/acIOV8wtkOo?t=2h8m54s).
