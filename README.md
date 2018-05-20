@@ -1,3 +1,8 @@
+# Speed, Speed, Speed: JavaScript vs C++ vs WebAssembly
+[Slides from RevolutionConf 2018](https://fhinkel.github.io/JSEngines-HowDoTheyEven/RevolutionConf2018).
+
+In Node.js, we can use WebAssembly modules and native C++ addons. If your app has performance critical parts, should you stay in JavaScript? Or write a native C++ addon? Or use WebAssembly? We’ll look at how these options compare performance wise and which one is best for different workloads. So the next time you need to optimize for speed, you know your options.
+
 # The JavaScript Engine in Node.js: TurboFan and Ignition
 [Slides from NodeFest 2017](https://fhinkel.github.io/JSEngines-HowDoTheyEven/NodeFest).
 
