@@ -1,6 +1,5 @@
 # What's New in Node.js Core?
-[Slides from Node+JS Interactive 2018]
-[Slides from RevolutionConf 2018](https://fhinkel.github.io/Presentations/Interactive2018).
+[Slides from Node+JS Interactive 2018](https://fhinkel.github.io/Presentations/Interactive2018).
 
 Node.js 10 just entered Long Term Support (LTS). Let’s look at some exciting new features and what the future holds for Node.js Core.
 
