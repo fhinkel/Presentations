@@ -1,3 +1,6 @@
+# Speed, Speed, Speed: JavaScript vs C++ vs WebAssembly
+[Slides from NodeConf Argentina 2018](https://fhinkel.github.io/Presentations/NodeConfAR).
+
 # What's New in Node.js Core?
 [Slides from Node+JS Interactive 2018](https://fhinkel.github.io/Presentations/Interactive2018).
 
